@@ -40,9 +40,9 @@ def send(msg):
 
 send("Hello World")
 input()
-send("Hello Marinka")
+send("Hello User")
 input()
-send("Hello Little Asshole")
+send("Bye User")
 
 send("!DISCONNECT")
 
